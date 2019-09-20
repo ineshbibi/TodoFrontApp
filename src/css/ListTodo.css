@@ -1,0 +1,36 @@
+.todo-list {
+  margin-top: 10%;
+}
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+.close {
+  width: 56px;
+  position: absolute;
+  top: 6px;
+  fill: red;
+  right: 4px;
+}
+
+/************************************** overides *********************************************/
+
+table {
+  border-spacing: 15px !important;
+}
+
+.Add-Button {
+  margin-bottom: 15px;
+  margin-left: 90%;
+}
+.btn {
+  margin-top: 15px;
+  height: 30px;
+  font-size: 12px !important;
+  color: white !important;
+  font-weight: Bold;
+}
+
+.badge-warning {
+  color: white !important;
+}
